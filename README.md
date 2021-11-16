@@ -1,0 +1,2 @@
+# Covid19_Dashboard-
+t is a Power BI interactive dashboard that visualizes covid 19 data. The data used in this analysis consists of the daily and cumulative COVID-19 cases for 183 Countries till July 2021. In this, the computed data is imported, cleaned, and converted into meaningful visualizations which consist of total confirmed cases, deaths, recovered, population, etc., and these changes in accordance with the countries. 
